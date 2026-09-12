@@ -19,13 +19,13 @@ Coding Assistant helps OpenCode:
 
 Run:
 
-irm https://raw.githubusercontent.com/YOUR_USERNAME/coding-assistant/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/yousefAbdeen/ai/main/install.ps1 | iex
 
 ### Manual Installation
 
 Clone:
 
-git clone https://github.com/YOUR_USERNAME/coding-assistant.git
+git clone https://github.com/yousefAbdeen/ai.git
 
 Then follow the installation instructions.
 
